@@ -1,0 +1,24 @@
+span {    font-style: italic;
+    color: khaki;
+    background-color: rgba(45, 20, 83, 0.814)
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.coconut {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background: url(https://i.pinimg.com/564x/26/00/21/2600216564d5f2a8bc769156bde42e5d.jpg);
+    height: 200vh;
+}
+
+.kitty-box {
+    text-align: center;
+    background:url(https://i.pinimg.com/564x/48/ad/9e/48ad9e0b7a2d6ef5e81033ab1182213f.jpg)
+}
+
+.gigity {
+    display: inline-block;
+}
